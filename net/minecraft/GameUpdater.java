@@ -140,7 +140,7 @@ public class GameUpdater
     case 10:
       return "Chargement termin";
     case 11:
-      return "Mise ˆ jour MineQC!";
+      return "Mise ˆ jour MineQC";
     }
     return "Phase inconnu";
   }
