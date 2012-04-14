@@ -33,7 +33,7 @@ public class LogoPanel extends JPanel
   }
 
   public void paintComponent(Graphics g2) {
-    g2.drawImage(bgImage, 150, 3, null);
+    g2.drawImage(bgImage, 50, 3, null);
   }
 }
 
