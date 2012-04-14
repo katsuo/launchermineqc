@@ -24,7 +24,6 @@ import java.lang.reflect.Method;
 import java.net.HttpURLConnection;
 import java.net.JarURLConnection;
 import java.net.SocketPermission;
-import java.net.URI;
 import java.net.URL;
 import java.net.URLClassLoader;
 import java.net.URLConnection;
@@ -140,7 +139,7 @@ public class GameUpdater
     case 10:
       return "Chargement terminé!";
     case 11:
-      return "Mise à jour de MineQC";
+      return "Mise à jour de MineQC!!";
     }
     return "Phase inconnu";
   }
