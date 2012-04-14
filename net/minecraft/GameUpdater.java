@@ -138,7 +138,7 @@ public class GameUpdater
     case 9:
       return "Dmarrage de l'applet";
     case 10:
-      return "Chargement termin";
+      return "Chargement termin!";
     case 11:
       return "Mise ˆ jour MineQC";
     }
